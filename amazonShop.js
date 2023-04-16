@@ -49,4 +49,4 @@ console.log(user);
 // 1. Add items to cart.
 // 2. Add 3% tax to item in cart
 // 3. Buy item: cart --> purchases
-// 4. Empty cart
+// 4. Empty cart.
